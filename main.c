@@ -21,12 +21,12 @@ int main(){
 			tempbh();
 			break;
 	
-	    case 3:
-	    	entropybh();
-	    	break;
+	   	 case 3:
+	    		entropybh();
+	    		break;
 	    
-	    default:
-	    	printf("Error");
+	   	 default:
+	    		printf("Error");
 	}
 }
   	
